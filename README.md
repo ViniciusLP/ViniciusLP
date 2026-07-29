@@ -1,9 +1,10 @@
 Hi, I'm Vinicius Lima 👋
-About Me
+
+## About Me
 
 I'm an IT professional passionate about Cloud Computing, System Administration, and Cybersecurity. I enjoy building hands-on labs, documenting what I learn, and continuously expanding my technical skills through real-world projects.
 
-I'm currently focused on:
+## I'm currently focused on:
 
 ☁️ Microsoft Azure
 🖥️ Windows Server & Active Directory
